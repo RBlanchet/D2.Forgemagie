@@ -1,0 +1,3 @@
+[submodule "lib/packet-interceptor"]
+	path = lib/packet-interceptor
+	url = git@github.com:RBlanchet/D2.PacketInterceptor.git
